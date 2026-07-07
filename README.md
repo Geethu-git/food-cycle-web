@@ -1,6 +1,8 @@
 # Smart Food Cycle
 
 A full-stack platform that connects surplus food donations with beneficiaries — built with **HTML, CSS, Angular 18, Node.js/Express, and MongoDB Atlas (via Mongoose)** only. Includes account sign-up/sign-in and a gated donation/beneficiary workflow.
+<img width="1533" height="692" alt="image" src="https://github.com/user-attachments/assets/4dccddb5-af54-4c33-8b08-6463f971b925" />
+
 
 ## Project Structure
 
